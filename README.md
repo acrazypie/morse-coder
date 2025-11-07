@@ -19,7 +19,7 @@ Supports letters, numbers, and punctuation symbols — perfect for small project
 You can install it directly from PyPI:
 
 ```bash
-pip install morsepy
+pip install morse-coder
 ```
 
 Or, if you’re developing locally:
