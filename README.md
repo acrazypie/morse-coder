@@ -1,11 +1,11 @@
-morsepy
+# morsepy
+[![GitHub Repo](https://img.shields.io/badge/GitHub-morsepy-black?logo=github&style=for-the-badge)](https://github.com/ElisaGenesio/morsepy)
+[![PyPI](https://img.shields.io/pypi/v/morsepy?style=for-the-badge&color=blue)](https://pypi.org/project/morsepy/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-[!PyPI version](https://pypi.org/project/morsepy/)
-[!License: MIT](https://opensource.org/licenses/MIT)
-[!GitHub](https://github.com/acrazypie/morsepy)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/acrazypie/morsepy)
-![Stars](https://img.shields.io/github/stars/acrazypie/E-Commerce?style=social)
+![Stars](https://img.shields.io/github/stars/acrazypie/morsepy?style=social)
 
 [![Maintained by acrazypie](https://img.shields.io/badge/maintained%20by-acrazypie-9cf?logo=github&style=flat-square)](https://egenesio.com)
 
