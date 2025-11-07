@@ -1,4 +1,4 @@
-# morsepy
+# morse-coder
 [![GitHub Repo](https://img.shields.io/badge/GitHub-morsepy-black?logo=github&style=for-the-badge)](https://github.com/ElisaGenesio/morsepy)
 [![PyPI](https://img.shields.io/pypi/v/morsepy?style=for-the-badge&color=blue)](https://pypi.org/project/morsepy/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -19,7 +19,7 @@ Supports letters, numbers, and punctuation symbols — perfect for small project
 You can install it directly from PyPI:
 
 ```bash
-pip install morsepy
+pip install morse-coder
 ```
 
 Or, if you’re developing locally:
